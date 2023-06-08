@@ -1,6 +1,6 @@
 ### Earthquake_Prediction
 
-Uses GNSS data from USGS
+Uses GNSS(.csv) data from USGS website
 
 The code notebook is a sample notebook represents how xgboost is implemented
 
